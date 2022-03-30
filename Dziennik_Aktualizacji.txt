@@ -1,0 +1,12 @@
+Aktualizacja(30.03)
+- dodanie nowej mapy;
+- naprawa błędu wyswietlania kalendarza;
+- poprawienie pozycji kamery gracza;
+
+Aktualizacja(29.03)
+- bugfix zapisu gry;
+- zmiana działania zegara;
+- dodanie kalendarza;
+- możliwość snu w domu;
+- status pracownika;
+- wraz ze zmianą statusu pracownika zmieniaja się zarobki;
