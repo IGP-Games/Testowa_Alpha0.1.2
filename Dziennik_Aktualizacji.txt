@@ -1,3 +1,10 @@
+Aktualizacja(31.03)
+- Poprawienie kolorystyki wyświetlania info o zamkniętych drzwiach;
+- Ustawienie nowej pozycji spawnu gracza;
+- Nowe ustawienie kamery;
+- Panel ładowania gry;
+- Optymalizacja mapy;
+
 Aktualizacja(30.03)
 - dodanie nowej mapy;
 - naprawa błędu wyswietlania kalendarza;
