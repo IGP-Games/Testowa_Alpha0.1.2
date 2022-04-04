@@ -1,3 +1,14 @@
+Aktualizacja(04.04)
+- Aktualizacja mapy;
+- Aktywacja sklepu;
+- Dodanie tła dla zegara i kalenarza;
+- Zmiana wyswietlania pieniędzy;
+- Usunięcie możliwości chodzenia graczem gdy jest w pomieszczeniach;
+- System Ekwipunku;
+- Optymalizacja Panelu Ekwipunku;
+- Optymalizacja Canvasu;
+- Nowy system zapisu plików;
+
 Aktualizacja(31.03)
 - Poprawienie kolorystyki wyświetlania info o zamkniętych drzwiach;
 - Ustawienie nowej pozycji spawnu gracza;
@@ -6,14 +17,14 @@ Aktualizacja(31.03)
 - Optymalizacja mapy;
 
 Aktualizacja(30.03)
-- dodanie nowej mapy;
-- naprawa błędu wyswietlania kalendarza;
-- poprawienie pozycji kamery gracza;
+- Dodanie nowej mapy;
+- Naprawa błędu wyswietlania kalendarza;
+- Poprawienie pozycji kamery gracza;
 
 Aktualizacja(29.03)
-- bugfix zapisu gry;
-- zmiana działania zegara;
-- dodanie kalendarza;
-- możliwość snu w domu;
-- status pracownika;
-- wraz ze zmianą statusu pracownika zmieniaja się zarobki;
+- Bugfix zapisu gry;
+- Zmiana działania zegara;
+- Dodanie kalendarza;
+- Możliwość snu w domu;
+- Status pracownika;
+- Wraz ze zmianą statusu pracownika zmieniaja się zarobki;
