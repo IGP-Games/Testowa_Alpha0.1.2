@@ -1,3 +1,9 @@
+Aktualizacja(11.04)
+- System spania daje realne efekty odnawiania energii;
+- Dodano możliwość śmierci a co za tym idzie utrata zapisu danych;
+- Zapisywanie aktualnych statystyk gracza (życie, napojenie, najedzenie, energia);
+- Drobna poprawa gracza;
+
 Aktualizacja(04.04)
 - Aktualizacja mapy;
 - Aktywacja sklepu;
