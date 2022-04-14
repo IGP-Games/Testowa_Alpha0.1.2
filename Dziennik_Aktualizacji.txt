@@ -1,4 +1,8 @@
-Aktualizacja(11.04)
+Aktualizacja(15.04)
+- Gracz może już używać przedmiotów znajdujących się w ekwipunku;
+- Dodano panel z informacjami o przedmiocie;
+- Zapisywanie danych ekwipunku;
+- Dodano informacje procentowe o potrzebach postaci w panelu statystyk gracza;
 - System spania daje realne efekty odnawiania energii;
 - Dodano możliwość śmierci a co za tym idzie utrata zapisu danych;
 - Zapisywanie aktualnych statystyk gracza (życie, napojenie, najedzenie, energia);
